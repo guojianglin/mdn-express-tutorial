@@ -3,7 +3,7 @@
 
 ## 这个教程的编写是2016年，我练习时间是2020年，以下记录我在跟着教程走时遇到的问题
 
-- 课程在[Express 教程 5: 呈现图书馆数据 > 使用 async 进行非同步流控制](https://developer.mozilla.org/zh-CN/docs/Learn/Server-side/Express_Nodejs/Displaying_data/flow_control_using_async)使用 async 进行非同步流控制用处理异步事件的时候，用的是[async](https://caolan.github.io/async/v3/),但是现在基本可以使用原生的promise + async 了， 方便后面继续跟着教程走，就不做修改了。
+- 课程在[Express 教程 5: 呈现图书馆数据 > 使用 async 进行非同步流控制](https://developer.mozilla.org/zh-CN/docs/Learn/Server-side/Express_Nodejs/Displaying_data/flow_control_using_async) 处理异步事件的时候，用的是 [async](https://caolan.github.io/async/v3/), 但是现在基本可以使用原生的promise + async 了， 方便后面继续跟着教程走，就不做修改了。
 
 - 课程在[Express 教程 6: 使用表单](https://developer.mozilla.org/zh-CN/docs/Learn/Server-side/Express_Nodejs/forms) 使用 express-validator 的时候，用的引入方式被废弃了，不建议使用。
 
